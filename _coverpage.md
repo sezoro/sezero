@@ -4,7 +4,7 @@
 # WELCOME TO SEZERO PAGE  
 ### If you want to learn anything from here
 ### I would tell you
-### You get nothing
+### You will get nothing
 
 <!-- 背景图片 -->
 

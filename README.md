@@ -7,4 +7,4 @@
 ![](_pics/feeling.png)
 
 ### bamboo wave
-![](_pics/bamboo wave.png)
+![](_pics/bamboowave.png)

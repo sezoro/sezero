@@ -1,5 +1,8 @@
 # Portfolio
 
+### introduction
+![](_pics/resume.jpg)
+
 ### Silkworm Box
 ![](_pics/silk_01.jpg)
 

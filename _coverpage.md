@@ -2,9 +2,8 @@
 <!-- _coverpage.md -->
 
 # WELCOME TO SEZERO PAGE  
-### If you want to learn anything from here
-### I would tell you
-### You will get nothing
+### There are some of my works in it
+### I hope you like it
 
 <!-- 背景图片 -->
 

@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Silkworm Box
-![](_pics/moon.png)
+![](_pics/silk_01.jpg)
 
 ### Rotating Suitcase
 ![](_pics/feeling.png)
